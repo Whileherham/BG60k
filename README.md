@@ -1,7 +1,7 @@
 ## BG60k
 This is the dataset used in our paper *Generate E-commerce Product Background by Integrating Category Commonality and Personalized Style (Accepted by ICASSP 2025)*  
 ~~After the JD open-source review process, the dataset will be released soon.~~  
-BG60K is now available at [OpenAI](http://box.jd.com/sharedInfo/BADCABCC011B969C172F77FDEF0F38F6) with verification code 73ym9j, which is only permitted for academic use rather than commercial purposes.  
+BG60K is now available at [京东鲸盘](http://box.jd.com/sharedInfo/BADCABCC011B969C172F77FDEF0F38F6) with verification code 73ym9j, which is only permitted for academic use rather than commercial purposes.  
 ## BibTeX
 If you use this dataset for your research, please consider citing:
 ````BibTeX
